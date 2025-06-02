@@ -10,7 +10,7 @@ These model files were supplied by Dr Shanahan.
 At the matlab prompt type `GWTrials` to start the top-level program.
 This will run for a little under 4 hours generating figures in 13 training with several trials per session. These figures are similar to those in figures 7, 8, and 9 in the paper:
 
-![screenshot](./screenshot.jpg)
+![screenshot](./screenshot.JPG)
 
 The code contains some corrections, so doesn't reproduce the exact
 figures from the paper, although they are qualitatively the same.
